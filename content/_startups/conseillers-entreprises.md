@@ -19,7 +19,7 @@ sponsors:
   - /organisations/dgefp
 link: https://conseillers-entreprises.service-public.fr
 stats: true
-dashlord_url: https://dashlord.incubateur.net/url/place-des-entreprises-beta-gouv-fr/
+dashlord_url: https://dashlord.incubateur.net/url/conseillers-entreprises-service-public-fr/
 events:
   - name: national_impact
     date: 2022-12-31
